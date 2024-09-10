@@ -1,0 +1,17 @@
+/* src/components/Home.css */
+.home {
+    text-align: center;
+    padding: 50px;
+    background-color: aquamarine;
+    height: 100vh;
+    color: violet;
+  }
+  
+  .home h1 {
+    font-size: 48px;
+  }
+  
+  .home p {
+    font-size: 24px;
+  }
+  
